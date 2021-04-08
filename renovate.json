@@ -9,7 +9,7 @@
       "matchPackageNames": [
         "pycqa/pylint"
       ],
-      "extractVersion": "^pylint-(?<version>.*)$"
+      "versioning": "loose"
     }
   ]
 }
